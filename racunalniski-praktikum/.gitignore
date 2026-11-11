@@ -14,3 +14,8 @@
 *.pyc
 *.snm
 *.synctex.gz
+*.synctex(busy)
+*.png
+*.jpg
+*.bib
+*.md
