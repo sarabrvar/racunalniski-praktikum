@@ -19,6 +19,10 @@
 *.snm
 *.synctex.gz
 *.md
+*.jpg
+*.md
+*.synctex(busy)
+
 # MacOS
 __MACOSX
 .DS_Store
