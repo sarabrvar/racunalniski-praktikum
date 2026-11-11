@@ -1,3 +1,7 @@
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
 *.aux
 *.bbl
 *.blg
@@ -14,8 +18,13 @@
 *.pyc
 *.snm
 *.synctex.gz
-*.synctex(busy)
-*.png
-*.jpg
-*.bib
-*.md
+
+# MacOS
+__MACOSX
+.DS_Store
+
+# Windows
+thumbs.db
+
+# Python
+__pycache__
